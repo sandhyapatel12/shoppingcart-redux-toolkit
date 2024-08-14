@@ -3,7 +3,7 @@
 1.  npm install -g json-server
 2.  create db.json file at your project and write your api data their
     like...
-    {
+  `  {
         "products":  
             [
                 {
@@ -15,8 +15,10 @@
                 "id": "1"
                 }
             ]
-    }
-    or also without define name when you want to create single data if you want to create multiple data then also give name
+    }`
+
+    # or also without define name when you want to create single data if you want to create multiple data then also give name
+
 3.  json-server --watch db.json --port 3001
-4.  copy your db.json file and paste into "https://mocki.io/fake-json-api" website
+4.  copy your db.json file and paste into `"https://mocki.io/fake-json-api"` website
 5.  now your fake api is ready
