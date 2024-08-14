@@ -1,3 +1,5 @@
+###    create fake api
+
 1.  npm install -g json-server
 2.  create db.json file at your project and write your api data their
     like...
