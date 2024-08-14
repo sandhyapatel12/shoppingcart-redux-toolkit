@@ -1,0 +1,52 @@
+[
+     {
+      "createdAt": "2024-08-11T22:25:55.022Z",
+      "productName": "Estelle McCullough",
+      "productImg": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "price": 8400.00,
+      "quantity": 5,
+      "id": "1"
+    },
+    {
+      "createdAt": "2024-08-11T12:16:43.365Z",
+      "productName": "Lauren McClure",
+      "productImg": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+      "price": 2800.00,
+      "quantity": 6,
+      "id": "2"
+    },
+    {
+      "createdAt": "2024-08-11T20:23:07.244Z",
+      "productName": "Betty Hessel DVM",
+      "productImg": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+      "price": 50000.00,
+      "quantity": 4,
+      "id": "3"
+    },
+    {
+      "createdAt": "2024-08-12T02:14:51.609Z",
+      "productName": "Vincent Marquardt",
+      "productImg": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+      "price": 4800.00,
+      "quantity": 7,
+      "id": "4"
+    },
+    {
+      "createdAt": "2024-08-11T10:33:49.593Z",
+      "productName": "Sarah Hartmann",
+      "productImg": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+      "price": 3000.00,
+      "quantity": 5,
+      "id": "5"
+    },
+    {
+      "createdAt": "2024-08-11T21:18:50.296Z",
+      "productName": "Lydia Dach",
+      "productImg": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+      "price": 7000.00,
+      "quantity": 6,
+      "id": "6"
+    }
+
+
+  ]
